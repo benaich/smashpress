@@ -1,0 +1,13 @@
+.DS_Store
+
+# Ignore specific file/directory
+tmp/
+node_modules/
+
+# Unknown temp files
+*.swp
+
+# Ignore git's conflicts file.
+*.orig
+
+
